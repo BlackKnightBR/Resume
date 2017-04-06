@@ -1,3 +1,9 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+
 body,
 div,
 ul,
@@ -18,9 +24,15 @@ h6 {
   overflow: auto;
 }
 
+.titulo{
+  color: #999;
+  font-size: 30px;
+}
+
 .education-entry,
 .work-entry,
-.project-entry {
+.project-entry,
+.online-entry {
   padding: 0 5%;
 }
 
@@ -118,7 +130,7 @@ a {
 }
 
 .gray {
-  background-color: #f3f3f3;
+  background-color: black;
   padding-bottom: 10px;
   clear: both;
 }
@@ -129,7 +141,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: black;
 }
 
 .flex-box {
