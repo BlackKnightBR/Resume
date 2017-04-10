@@ -12,7 +12,7 @@ var bio = {
   "welcomeMessage" : "Para que tudo se transforme em arte," +
   " basta um toque da sua alma. ",
   "skills" : ["Ciêntista da computação ", "Programador ", "Agente de marketing digital ",
-   "Designer ", "Desenhista ", "Musico ", "Autodidata " , "Artista."],
+   "Designer ", "Desenhista ", "Musico ", "Autodidata " , "Artista ","Reiki níveis I, II e Mestre/Professor. "],
   "bioPic" : "images/RodrigoMSB.jpg"
 };
 
